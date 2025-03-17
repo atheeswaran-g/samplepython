@@ -1,1 +1,1 @@
-print('i am a sports person')
+print('i am atheest')
